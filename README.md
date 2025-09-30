@@ -82,6 +82,8 @@ conda activate brain_tumour
 
 After installing the dependencies and setting up the environment, you can run the application using Streamlit.
 
+---
+
 ## 📂 Project Structure
 
 brain-mri-tumour-prediction/
