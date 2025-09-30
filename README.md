@@ -20,6 +20,29 @@ Key highlights of the project:
 - Automated PDF report generation
 - Interactive chatbot for query resolution
 
+## 🚀 Features
+
+This Brain MRI Tumour Prediction & Decision Support App offers the following features:
+
+- 🎯 **High-Accuracy Tumour Classification**  
+  Uses a CNN-based model achieving **97% accuracy** for tumour detection.
+
+- 🧠 **Tumour Segmentation & Highlighting**  
+  Segments tumour regions and overlays them on MRI scans for better visualization.
+
+- 🔍 **Grad-CAM Explainability**  
+  Generates heatmaps to explain model predictions for enhanced transparency.
+
+- 📄 **Automated PDF Report Generation**  
+  Creates detailed reports summarizing prediction results for medical records.
+
+- 💬 **Interactive Chatbot**  
+  Helps users understand results and navigate the app efficiently.
+
+- 🛠 **User-Friendly Streamlit App**  
+  Provides an interactive interface for tumour prediction, segmentation, and report generation.
+
+
 
 ## 📂 Dataset
 
