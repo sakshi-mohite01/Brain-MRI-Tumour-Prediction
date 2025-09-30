@@ -29,13 +29,21 @@ By combining CNN-based classification, segmentation, explainability, and interac
 
 ## 📂 Dataset
 
-This project uses the **BRISC2025 Brain MRI Dataset**, available on Kaggle.  
-The dataset contains two main folders:  
-- `classification_task`  
-- `segmentation_task`
+This project uses the **BRISC2025 Brain MRI Dataset**, sourced from Kaggle.  
+The dataset contains MRI scans for brain tumour classification and segmentation tasks.
 
-📥 You can download the dataset here:  
-👉 [BRISC2025 Dataset on Kaggle](https://www.kaggle.com/datasets/briscdataset/brisc2025)
+### Dataset Structure
+The dataset contains two main folders:
+- `classification_task` → MRI scans with labels for tumour classification.
+- `segmentation_task` → MRI scans and corresponding masks for tumour segmentation.
 
-After downloading, place the dataset inside a folder named `brisc2025/` in the root of this project.
+### Download Link
+You can download the dataset from Kaggle here:  
+👉 [BRISC2025 Dataset on Kaggle](https://www.kaggle.com/datasets/briscdataset/brisc2025)  
+
+### Usage
+After downloading:
+1. Place the dataset folder in the root directory of this project.  
+2. Rename it as `brisc2025/` so the code can access it easily.
+
 
